@@ -9,6 +9,6 @@
   "author": "Jefer Jacobo Davila Rodriguez <jedayr9074@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   }
 }
